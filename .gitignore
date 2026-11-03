@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data files — DO NOT commit raw data to GitHub
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.json
+*.parquet
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Exception: keep .gitkeep files so empty folders are tracked
+!**/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# API keys and credentials — NEVER commit these
+.env
+secrets.json
+credentials.json
+api_keys.py

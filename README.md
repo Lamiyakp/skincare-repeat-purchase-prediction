@@ -50,7 +50,7 @@ skincare-repeat-purchase-prediction/
 | Week 1 | Industry Research, Problem Definition & Hypotheses | ✅ Complete |
 | Week 2 | Data Identification, Sourcing Strategy & Initial Analysis Plan | ✅ Complete |
 | Week 3 | Data Cleaning & Preprocessing Pipeline Development | ✅ Complete |
-| Week 4 | Segmentation & Feature Engineering (Text + Ingredients) | 🔜 Upcoming |
+| Week 4 | Exploratory Data Analysis & Feature Engineering | ✅ Complete |
 | Week 5 | Repeat-Purchase Modelling & Evaluation | 🔜 Upcoming |
 | Week 6 | Interpretability, Survival Analysis & Fairness Checks | 🔜 Upcoming |
 | Week 7 | Recommendation System Development & Evaluation | 🔜 Upcoming |

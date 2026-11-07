@@ -37,6 +37,10 @@ skincare-repeat-purchase-prediction/
 │   ├── Week5_Predictive_Modelling_Strategy.md
 │   └── Week_5_Predictive_Modelling_Strategy_Deliverable.docx
 │
+├── Week6_Model_Evaluation_Business_Impact/# Week 6 deliverable
+│   ├── Week6_Model_Evaluation_Business_Impact.md
+│   └── Week_6_Model_Evaluation_Business_Impact_Report.docx
+│
 ├── data/
 │   ├── raw/                           # Original, immutable data (not pushed to GitHub)
 │   ├── interim/                       # Intermediate cleaned data
@@ -62,9 +66,9 @@ skincare-repeat-purchase-prediction/
 | Week 3 | Data Cleaning & Preprocessing Pipeline Development | ✅ Complete |
 | Week 4 | Exploratory Data Analysis & Feature Engineering | ✅ Complete |
 | Week 5 | Predictive Modelling Strategy & Algorithm Selection | ✅ Complete |
-| Week 6 | Model Training, Tuning, Calibration & Survival Analysis | 🔜 Upcoming |
-| Week 7 | Recommendation System Development & Evaluation | 🔜 Upcoming |
-| Week 8 | Insights, Final Report & Presentation | 🔜 Upcoming |
+| Week 6 | Model Evaluation & Business Impact Reporting | ✅ Complete |
+| Week 7 | Recommendation System Development & Deep Personalization | 🔜 Upcoming |
+| Week 8 | Insights, Final Report & Executive Presentation | 🔜 Upcoming |
 
 ---
 

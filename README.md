@@ -27,6 +27,16 @@ skincare-repeat-purchase-prediction/
 ├── Week2_Data_Strategy/               # Week 2 deliverable
 │   └── Week2_Data_Sourcing_Strategy.md
 │
+├── Week3_Data_Cleaning_Pipeline/      # Week 3 deliverable
+│   └── Week3_Data_Cleaning_Pipeline.md
+│
+├── Week4_EDA_Feature_Engineering/     # Week 4 deliverable
+│   └── Week4_EDA_Feature_Engineering.md
+│
+├── Week5_Predictive_Modelling_Strategy/# Week 5 deliverable
+│   ├── Week5_Predictive_Modelling_Strategy.md
+│   └── Week_5_Predictive_Modelling_Strategy_Deliverable.docx
+│
 ├── data/
 │   ├── raw/                           # Original, immutable data (not pushed to GitHub)
 │   ├── interim/                       # Intermediate cleaned data
@@ -51,8 +61,8 @@ skincare-repeat-purchase-prediction/
 | Week 2 | Data Identification, Sourcing Strategy & Initial Analysis Plan | ✅ Complete |
 | Week 3 | Data Cleaning & Preprocessing Pipeline Development | ✅ Complete |
 | Week 4 | Exploratory Data Analysis & Feature Engineering | ✅ Complete |
-| Week 5 | Repeat-Purchase Modelling & Evaluation | 🔜 Upcoming |
-| Week 6 | Interpretability, Survival Analysis & Fairness Checks | 🔜 Upcoming |
+| Week 5 | Predictive Modelling Strategy & Algorithm Selection | ✅ Complete |
+| Week 6 | Model Training, Tuning, Calibration & Survival Analysis | 🔜 Upcoming |
 | Week 7 | Recommendation System Development & Evaluation | 🔜 Upcoming |
 | Week 8 | Insights, Final Report & Presentation | 🔜 Upcoming |
 
